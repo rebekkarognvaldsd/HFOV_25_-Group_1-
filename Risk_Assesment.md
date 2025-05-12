@@ -14,6 +14,7 @@
 | Risk 9      | Use Rafræn skilríki to confirm transaction | Feasibility Risk | 3               | 1          | Risk 9   |
 
 Risk mitigation measures 
+
 (Risk 1) Social security usage: This risk primarily involves security and as a mitigation, good security would be a key factor. Measures like encrypting data, not storing all the SSN at one place, limit access and following guidelines around storing personal data. 
 
 (Risk 2) Search button visibility: This risk concerns UI design and UX. This risk happens often and most users have experienced this. To mitigate it would be wise to test often with users to ensure visibility as well as using standard icons like a magnifying glass. 
