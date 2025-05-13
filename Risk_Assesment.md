@@ -2,7 +2,7 @@
 | ----------- | ------------------------------------------ | ---------------- | --------------- | ---------- | -------- |
 | Risk 2      | Search button visibility                   | Usability Risk   | 6               | 3          | Risk 2   |
 | Risk 4      | Personalization of tips                    | Usability Risk   | 7               | 3          | Risk 4   |
-| Risk 5      | Color palette confusion                    | Usability Risk   | 4               | 3          | Risk 5   |
+| Risk 5      | Colour palette confusion                    | Usability Risk   | 4               | 3          | Risk 5   |
 | Risk 6      | Rewards system usability                   | Value Risk       | 6               | 3          | Risk 6   |
 | Risk 8      | Press electronic documents                 | Feasibility Risk | 4               | 3          | Risk 8   |
 | Risk 12     | Filter by transaction type/date/category   | Value Risk       | 4               | 3          | Risk 12  |
