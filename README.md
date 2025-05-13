@@ -1,6 +1,8 @@
+Arion Bank
+
 Group name: Furðurvirk
 
-Group number 1
+Group number: 1
 
 Group members: 
 - Agnes Ómarsdóttir
