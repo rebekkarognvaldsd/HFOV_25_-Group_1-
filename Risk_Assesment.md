@@ -21,7 +21,7 @@ Risk mitigation measures
 
 (Risk 3) Setting financial goals usability: This risk is all about UX. The risk is mainly that the process might become too complicated for users and not engaging. To mitigate potential difficulties it’s best to always test thoroughly with users. Consider using tooltips or help icons as well as pre filling criteria that the user has already provided. 
 
-(Risk 4) Personalization of tips: This risk is also all about UX. A risk that the user doesn’t like the tips or doesn’t think they are relevant. Mitigation strategies like letting users give feedback and maybe customizing the tips to better suit them would be worth considering. The timing of the tips might also be worth controlling to ensure the relevance of the tip. 
+(Risk 4) Personilization of tips: This risk is also all about UX. A risk that the user doesn’t like the tips or doesn’t think they are relevant. Mitigation strategies like letting users give feedback and maybe customizing the tips to better suit them would be worth considering. The timing of the tips might also be worth controlling to ensure the relevance of the tip. 
 
 (Risk 5) Color palette confusion: The color palette is a factor that is often overlooked by developers but it is a vital part of the UX. As the app is a banking app it needs to look professional to ensure users' trust. A mitigation strategy would mainly involve a lot of user testing. A good feature could be to provide themes for users to choose from (e.g. dark mode, light mode) in the app. 
 
